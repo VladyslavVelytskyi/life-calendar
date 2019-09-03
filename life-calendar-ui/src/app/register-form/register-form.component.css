@@ -1,0 +1,9 @@
+.register-form-container {
+  width: 500px;
+  padding: 15px;
+}
+
+.register-form-content {
+  display: flex;
+  flex-direction: column;
+}

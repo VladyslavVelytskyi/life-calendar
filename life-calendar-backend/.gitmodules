@@ -1,0 +1,3 @@
+[submodule "life-calendar"]
+	path = life-calendar
+	url = git@github.com:VladyslavVelytskyi/life-calendar.git

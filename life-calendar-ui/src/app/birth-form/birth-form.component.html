@@ -1,0 +1,9 @@
+<form>
+  <label for="birth-date">Enter you birthday: </label>
+  <input type="text"
+         id="birth-date"
+         [value]="birthday"
+         placeholder="YYYY-MM-DD">
+  {{birthday}}
+  <button (submit)="submitBirthForm($event)">Submit</button>
+</form>
